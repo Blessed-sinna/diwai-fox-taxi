@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { MapPin, Car, DollarSign, Clock, User, Settings, LogOut, Menu, X } from 'lucide-react';
 
-const API_URL = 'http://localhost:5000/api';
+const API_URL = 'https://diwai-fox-taxi.onrender.com/api';
 
 // Main App Component
 export default function DiwaiFoxApp() {
