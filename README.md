@@ -73,4 +73,4 @@ npm start
 
 ## 👨‍💻 Developer
 
-Developed by [Your Name]
+Developed by Blessina Korowi
