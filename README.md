@@ -34,9 +34,7 @@ A full-stack web application for taxi booking service with separate interfaces f
 
 **Test Accounts:**
 - Admin: `admin@diwaifox.com` / `admin123`
-- Passenger: 'jz@gmail.com' / 'joanzebedee'
-- Driver: 'testdriver@gmail.com' / 'testdriver123'
-- Or register your own account as Passenger or Driver
+- Register your own account as Passenger or Driver
 
 ## 📦 Installation
 
